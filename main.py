@@ -264,8 +264,8 @@ def main():
         interest_page()
     
     st.markdown("---")
-    st.markdown("*Thank you for using SBI Banking System! 🙏*")
-    st.markdown("CRAFTED WITH ❤️BY SHREYAS KASTURE")
+    st.markdown("*Thank you for using SIT Banking System! 🙏*")
+    st.markdown("CRAFTED BY SHAURYA POTDUKHE")
 
 if __name__ == "__main__":
     main()
