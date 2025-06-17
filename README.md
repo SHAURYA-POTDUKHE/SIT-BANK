@@ -4,7 +4,7 @@ A modern web-based banking application built with Python and Streamlit, featurin
 
 ## 🌐 Live Demo
 
-**🚀 Try the app live:** [https://shreyas-sitbank.streamlit.app/](https://shreyas-sitbank.streamlit.app/)
+**🚀 Try the app live:** [https://sit-bank-shaurya-potdukhe.streamlit.app/](https://sit-bank-shaurya-potdukhe.streamlit.app/)
 
 ## ✨ Features
 
